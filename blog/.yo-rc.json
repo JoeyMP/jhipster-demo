@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "pe.joedayz.blog",
+      "nativeLanguage": "es",
+      "microservicePath": "../store"
+    },
+    "jhipsterVersion": "5.6.0",
+    "applicationType": "gateway",
+    "baseName": "blog",
+    "packageName": "pe.joedayz.blog",
+    "packageFolder": "pe/joedayz/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWVhOTYwYWUwYTFhNDdkMzczMTlmNWFjNzUyMGY4OTk3NmZhZmE3ODJjZjZkNjliNTRjN2I4OTYwM2Y1YTAwYTQ1NWM2ZDZlNmU2YzI4NjkyYTE0ZmM3MDhkZjgxMWYzMmVjODdkMzY3ZWMwNzQ2NzdiNjk0MGFmNDc1NzM4MDI=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ]
+  }
+}
