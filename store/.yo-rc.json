@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "pe.joedayz.store",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.6.0",
+    "applicationType": "microservice",
+    "baseName": "store",
+    "packageName": "pe.joedayz.store",
+    "packageFolder": "pe/joedayz/store",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzY4NDM3M2EzMjA2ZGFkZjMxOGU1ODhmMDJmZGI4ZTJlOTJmYWM0M2ZjNmRmMTRjYmUwNzc0MmZmM2YyOWQzZjRjMjYwOTVhMGYxYTIxZTg4ZGViYzM0ZGQ3OWM4OTQ3ZTg1NjRhYjdjYTIzZmNhMGY2NGM5NThkMGJiYjk1MWE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
