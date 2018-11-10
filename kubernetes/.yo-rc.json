@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "blog",
+      "store"
+    ],
+    "directoryPath": "../",
+    "clusteredDbApps": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "YzRlZTY0YmUwMzNhNThlMzFlYmE3MTY1ODA3YWM3MjRmMTUyZDg5MjJjN2FlMzQ5MjgwZjg3OGE0MTk3NjFlMzJiYzZkYzQ1YmUyMjI5MDRiNjJiMjUwNDk0OGMwNWY3Mzc4Yg==",
+    "dockerRepositoryName": "joedayz",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "monitoring": "elk",
+    "istio": "no",
+    "istioRoute": false
+  }
+}
